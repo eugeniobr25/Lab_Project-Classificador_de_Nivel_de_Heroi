@@ -6,7 +6,7 @@ const xp = 100;
 let nivel;
 
 switch (true) {
-    case xp < 1000:
+    case xp <= 1000:
       nivel = "Novato";
       break;
     case xp >= 1001 && xp <= 2000:
