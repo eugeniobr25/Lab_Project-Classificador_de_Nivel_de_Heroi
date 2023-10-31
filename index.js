@@ -13,7 +13,7 @@ switch (true) {
       nivel = "Ferro";
       break;
     case xp >= 2001 && xp <= 5000:
-      nivel = "Broze";
+      nivel = "Bronze";
       break;
     case xp >= 6001 && xp <= 7000:
       nivel = "Prata";
